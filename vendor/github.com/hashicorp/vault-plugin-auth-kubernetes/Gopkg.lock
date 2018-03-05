@@ -213,12 +213,6 @@
 
 [[projects]]
   branch = "master"
-  name = "github.com/hashicorp/vault-plugin-auth-kubernetes"
-  packages = ["."]
-  revision = "60136e299bb6a25b81a4dcb89754414cc76a7057"
-
-[[projects]]
-  branch = "master"
   name = "github.com/hashicorp/yamux"
   packages = ["."]
   revision = "683f49123a33db61abfb241b7ac5e4af4dc54d55"
@@ -434,6 +428,6 @@
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  inputs-digest = "cd90d60517136259e913eb8a26b29cb8c370445cb374bc7da2e9e2d206823c5f"
+  inputs-digest = "88822523ccf1a3b5ac409bbc717788f0a34ee921ddb7a32e8939179dc6f7d02d"
   solver-name = "gps-cdcl"
   solver-version = 1
